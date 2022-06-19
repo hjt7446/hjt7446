@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 
-### :sparkles: Tech Stack 
+<!--### :sparkles: Tech Stack 
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
@@ -27,3 +27,4 @@ Here are some ideas to get you started:
 <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjt7446&show_icons=true&theme=chartreuse-dark)
+-->
